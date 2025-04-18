@@ -17,3 +17,53 @@ music-preferences-analysis/
 │
 ├── music_analysis.ipynb
 └── README.md
+
+```
+
+---
+
+## 📊 Dataset
+
+- **File:** `music_project_en.csv`
+- **Content:** Listening behavior logs of users from Springfield and Shelbyville.
+- **Source:** Provided as part of the TripleTen Bootcamp.
+- **Columns:**
+  - `user_id`: User identifier
+  - `city`: Springfield or Shelbyville
+  - `day`: Day of the week
+  - `time`: Time of stream
+  - `track`: Song title
+  - `artist`: Artist name
+  - `genre`: Music genre
+
+---
+
+## 🔍 Project Steps
+
+1. **Data Overview:** Understand the structure and content of the dataset.
+2. **Data Preprocessing:** Clean and standardize data for analysis.
+3. **Exploratory Analysis:** Visualize and summarize patterns to assess the business hypothesis.
+
+---
+
+## 🛠️ Tools Used
+
+- Python
+- pandas
+- matplotlib
+- seaborn
+- Jupyter Notebook
+
+---
+
+## ✅ Status
+
+✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Data Analysis Basics*
+
+---
+
+## 📌 Author
+
+David Villanueva  
+[LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
+[GitHub](https://github.com/lolapaul)
