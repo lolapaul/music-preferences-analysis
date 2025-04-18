@@ -16,8 +16,9 @@ The goal is to evaluate the following business hypothesis:
 music-preferences-analysis/
 │
 ├── music_analysis.ipynb
+├── music_project_en.csv
+├── requirements.txt
 └── README.md
-
 ```
 
 ---
