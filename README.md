@@ -1,17 +1,17 @@
-# 🎧 Music Preferences Analysis
+#  Music Preferences Analysis
 
 Comparative analysis of music listening patterns between Springfield and Shelbyville using real streaming data. This project includes data exploration and preprocessing to assess a business hypothesis about user behavior across cities and weekdays.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 The goal is to evaluate the following business hypothesis:
 > **User activity differs between Springfield and Shelbyville depending on the day of the week.**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 music-preferences-analysis/
 │
@@ -23,7 +23,7 @@ music-preferences-analysis/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **File:** `music_project_en.csv`
 - **Content:** Listening behavior logs of users from Springfield and Shelbyville.
@@ -39,7 +39,7 @@ music-preferences-analysis/
 
 ---
 
-## 🔍 Project Steps
+##  Project Steps
 
 1. **Data Overview:** Understand the structure and content of the dataset.
 2. **Data Preprocessing:** Clean and standardize data for analysis.
@@ -47,7 +47,7 @@ music-preferences-analysis/
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python
 - pandas
@@ -57,13 +57,13 @@ music-preferences-analysis/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Data Analysis Basics*
 
 ---
 
-## 📌 Author
+##  Author
 
 David Villanueva  
 [LinkedIn](https://www.linkedin.com/in/david-villanueva-59659727)  
