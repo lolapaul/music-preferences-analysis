@@ -57,12 +57,6 @@ music-preferences-analysis/
 
 ---
 
-##  Status
-
-✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Data Analysis Basics*
-
----
-
 ##  Author
 
 David Villanueva  
